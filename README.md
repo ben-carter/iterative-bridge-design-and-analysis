@@ -1,1 +1,2 @@
 # iterative-bridge-design-and-analysis
+This project focuses on the concept of iterative design in engineering. After research was conducted and a design process completed, a bridge was made out of pasta and low quality glue. The bridge was tested on a top loading force instrument and the maximum supported load and the corresponding bridge displacement was recorded. After a brief analysis of failure points and further research on bridge design, the bridge was redesigned and retested. A program was then written in MATLab to analyze the max tension of the two designs.
